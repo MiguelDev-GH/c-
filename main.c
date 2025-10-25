@@ -5,7 +5,7 @@ int main(){
     int n = 5;
 
     print("%d", n);
-    repeat(5, print("salve juninho"));
+    repeat(n, print("salve juninho"););
     
     return 0;
 }
